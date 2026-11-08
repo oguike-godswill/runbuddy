@@ -1,0 +1,24 @@
+# Flutter
+run_buddy/.dart_tool/
+run_buddy/.flutter-plugins-dependencies
+run_buddy/.pub-cache/
+run_buddy/.pub/
+run_buddy/build/
+run_buddy/coverage/
+run_buddy/android/app/debug/
+run_buddy/android/app/profile/
+run_buddy/android/app/release/
+run_buddy/.widget_preview/
+
+# Server
+run_buddy_server/node_modules/
+run_buddy_server/dist/
+run_buddy_server/.data/
+run_buddy_server/.env
+
+# General
+.DS_Store
+*.log
+*.tmp
+.vscode/
+.idea/
